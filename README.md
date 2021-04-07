@@ -8,5 +8,6 @@ Un blog para el curso de Git y GitHub
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
+* Creado por mi xd
 
 Y como un amable recordatorio: **Este README.md es un chiste**. Diseñado para el ejemplo. Si llegas hasta acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](http://platzi.com/cursos/git-github/ "a ver el curso").
